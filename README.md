@@ -1,5 +1,5 @@
 # Welcome Friends!
-My name is Alyssa and here is some things about me:
+My name is Alyssa and here are some things about me:
 * Student Engineer @ FamilySearch
 * Senior @ BYU-Idaho (Graduation: December 2024)
 * I enjoy swimming, gaming, and coding
