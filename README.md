@@ -1,4 +1,16 @@
-### Hi there 👋
+# Welcome Friends!
+My name is Alyssa and here is some things about me:
+* Student Engineer @ FamilySearch
+* Senior @ BYU-Idaho (Graduation: December 2024)
+* I enjoy swimming, gaming, and coding
+### What Am I Up To?
+* Building a website for my mom's business to save her weeks of time when it comes time to do her taxes
+  * Technologies: React, Outlook API, Azure, Node.js backend
+ 
+* Learning .NET for web
+
+
+
 
 <!--
 **lyssadk/lyssadk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
