@@ -8,11 +8,13 @@ My name is Alyssa and here are some things about me:
 * Building a website for my mom's business to save her weeks of time when it comes time to do her taxes
   * Technologies: React, Outlook API, Azure, Node.js backend, Vercel Postegres
 * Learning .NET for web
+* Once I am graduated I want to finish the game I started (pinned project)
 
 ### Past Projects
-* Web development quiz website
+* Web development quiz website (pinned project)
 * 3D Animated CSS [Butterflies](https://codepen.io/al-ku/pen/GReJoKM)
-* Email scraper in python
+* Email scraper in python (pinned project)
+* Database for my previous job as a water safety instructor (pinned project)
 
 ### How to reach me
 Feel free to connect on [LinkedIn](www.linkedin.com/in/alyssa-k-7a9207206) and send me a message!
