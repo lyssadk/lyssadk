@@ -3,14 +3,19 @@ My name is Alyssa and here are some things about me:
 * Student Engineer @ FamilySearch
 * Senior @ BYU-Idaho (Graduation: December 2024)
 * I enjoy swimming, gaming, and coding
+
 ### What Am I Up To?
 * Building a website for my mom's business to save her weeks of time when it comes time to do her taxes
-  * Technologies: React, Outlook API, Azure, Node.js backend
- 
+  * Technologies: React, Outlook API, Azure, Node.js backend, Vercel Postegres
 * Learning .NET for web
 
+### Past Projects
+* Web development quiz website
+* 3D Animated CSS [Butterflies](https://codepen.io/al-ku/pen/GReJoKM)
+* Email scraper in python
 
-
+### How to reach me
+Feel free to connect on [LinkedIn](www.linkedin.com/in/alyssa-k-7a9207206) and send me a message!
 
 <!--
 **lyssadk/lyssadk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
