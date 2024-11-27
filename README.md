@@ -6,7 +6,7 @@ My name is Alyssa and here are some things about me:
 
 ### What Am I Up To?
 * Building a website for my mom's business to save her weeks of time when it comes time to do her taxes
-  * Technologies: React, Outlook API, Azure, Node.js backend, Vercel Postegres
+  * Technologies: React, GMAIL API, Google Oauth/Next-auth, Next.js, Vercel Postegres
 * Learning .NET for web
 * Once I am graduated I want to finish the game I started (pinned project)
 
