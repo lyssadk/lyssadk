@@ -13,7 +13,6 @@ My name is Alyssa and here are some things about me:
 ### Past Projects
 * Web development quiz website (pinned project)
 * 3D Animated CSS [Butterflies](https://codepen.io/al-ku/pen/GReJoKM)
-* Email scraper in python (pinned project)
 * Database for my previous job as a water safety instructor (pinned project)
 
 ### How to reach me
