@@ -1,14 +1,13 @@
 # Welcome Friends!
 My name is Alyssa and here are some things about me:
 * Student Engineer @ FamilySearch
-* Senior @ BYU-Idaho (Graduation: December 2024)
+* Graduate from BYU-Idaho
 * I enjoy swimming, gaming, and coding
 
 ### What Am I Up To?
-* Building a website for my mom's business to save her weeks of time when it comes time to do her taxes
+* Upgrading the website I made for my mom's business to save her weeks of time when it comes time to do her taxes
   * Technologies: React, GMAIL API, Google Oauth/Next-auth, Next.js, Vercel Postegres
-* Learning .NET for web
-* Once I am graduated I want to finish the game I started (pinned project)
+* Learning React Native for an social sharing app I want to develop
 
 ### Past Projects
 * Web development quiz website (pinned project)
