@@ -7,7 +7,8 @@ My name is Alyssa and here are some things about me:
 ### What Am I Up To?
 * Upgrading the website I made for my mom's business to save her weeks of time when it comes time to do her taxes
   * Technologies: React, GMAIL API, Google Oauth/Next-auth, Next.js, Vercel Postegres
-* Learning React Native for an social sharing app I want to develop
+* Learning React Native for a social sharing app I want to develop
+* Job Hunting 😅
 
 ### Past Projects
 * Web development quiz website (pinned project)
