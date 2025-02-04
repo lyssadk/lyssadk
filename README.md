@@ -5,7 +5,7 @@ My name is Alyssa and here are some things about me:
 * I enjoy swimming, gaming, and coding
 
 ### What Am I Up To?
-* Upgrading the website I made for my mom's business to save her weeks of time when it comes time to do her taxes
+* Upgrading the website I made for my mom's business to save her weeks of time when it comes time to do her taxes (pinned project)
   * Technologies: React, GMAIL API, Google Oauth/Next-auth, Next.js, Vercel Postegres
 * Learning React Native for a social sharing app I want to develop
 * Job Hunting 😅
