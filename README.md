@@ -1,19 +1,7 @@
 # Welcome Friends!
 My name is Alyssa and here are some things about me:
-* Student Engineer @ FamilySearch
 * Graduate from BYU-Idaho
 * I enjoy swimming, gaming, and coding
-
-### What Am I Up To?
-* Upgrading the website I made for my mom's business to save her weeks of time when it comes time to do her taxes (pinned project)
-  * Technologies: React, GMAIL API, Google Oauth/Next-auth, Next.js, Vercel Postegres
-* Learning React Native for a social sharing app I want to develop
-* Job Hunting 😅
-
-### Past Projects
-* Web development quiz website (pinned project)
-* 3D Animated CSS [Butterflies](https://codepen.io/al-ku/pen/GReJoKM)
-* Database for my previous job as a water safety instructor (pinned project)
 
 ### How to reach me
 Feel free to connect on [LinkedIn](www.linkedin.com/in/alyssa-k-7a9207206) and send me a message!
